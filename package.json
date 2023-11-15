@@ -1,0 +1,26 @@
+{
+  "name": "datasus-lookup",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oxbar/api-placa-fipe.git"
+  },
+  "keywords": [
+    "datasus-lookup",
+    "datasus",
+    "consultas",
+    "cpf",
+    "nome",
+    "cns"
+  ],
+  "author": "seshdev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
